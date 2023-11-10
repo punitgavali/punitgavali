@@ -8,17 +8,32 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI MODEL FOR GESTURES**
+<br/>  
 
-- 🌱 I’m currently learning **DJANGO AND NODEJS**
+<table><tr><td valign="top" width="50%">
 
-- 👨‍💻 All of my projects are available at [https://github.com/punitgavali](https://github.com/punitgavali)
+- 🔭 I’m currently working at [SDMA DATA SERVICES](https://www.linkedin.com/company/sdma-data-services/) and practicing virtual work experience programs with [The Forage](https://www.theforage.com/)  
+  
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/punit-gavali-5bb906262](https://www.linkedin.com/in/punit-gavali-5bb906262)
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence  
+  
 
-- 💬 Ask me about **python,javascript and html css,mysql,cybersecurity**
+- ❓ Ask me about anything related to Data Science and related technologies  
+  
 
-- 📫 How to reach me **punitgavali29@gmail.com**
+- 📊 I firmly believe in the art of telling evocative tales, and I'm now learning how to do it using data in all its glorious manifestation.  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e472iyn49j4yh7xlsxx42mwsurfwtxds554fsg88nno&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
 
 ## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 🤝  
 <p align="left">
