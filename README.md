@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **punitgavali29@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 🤝  
 <p align="left">
 <a href="https://linkedin.com/in/punitgavali29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punitgavali29" height="30" width="40" /></a>
 </p>
@@ -48,11 +48,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"       alt="AbhishekSharma51" /></a></p>
 <p align="Center" >
-      
-<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p> 
-</div>
- 
 
-
+## Activity Stats 📈      
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryank-08&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryank-08&theme=2077)
