@@ -1,7 +1,40 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Punit Gavali</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punitgavali&label=Profile%20views&color=0e75b6&style=flat" alt="punitgavali" /> </p>
+<h3 align="center" >A passionate fullstack developer from India</h3>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const punit = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "machine learning"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               36 repos            ████████████░░░░░░░░░░░░░   48.00 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +46,19 @@
 </a>  
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;ERROR 404!&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+</p>
 
 <br/>  
 
